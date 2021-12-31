@@ -1,2 +1,2 @@
 # PortfolioProject.Python
-An exploratory project using Python
+A Data Cleaning and Exploratory Analysis project using Python
