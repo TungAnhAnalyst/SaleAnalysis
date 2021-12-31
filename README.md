@@ -1,2 +1,2 @@
-# Sales-Analysis-Project
-My very first project on Python
+# PortfolioProject.Python
+An exploratory project using Python
